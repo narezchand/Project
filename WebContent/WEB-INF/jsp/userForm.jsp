@@ -30,7 +30,7 @@
 				<form:option value="0" label="Select" />
 				<form:option value="1" label="India" />
 				<form:option value="2" label="New Zealand" />
-				<form:option value="3" label="kenya" />
+				<form:option value="3" label="US" />
 				<form:option value="4" label="Greenland" />
 				
 				
